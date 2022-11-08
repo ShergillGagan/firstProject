@@ -11,6 +11,10 @@ public class LoopsFor {
         }
     }
 
+
+
+
+
     public static void main1(int sum) {
 
         for (int counter = 1; counter <= 10; counter++) {
