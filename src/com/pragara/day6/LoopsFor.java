@@ -8,12 +8,9 @@ public class LoopsFor {
         for (int counter = 1; counter <= 10; counter++) {
             if (counter % 2 == 0)
                 System.out.println(counter);
+            System.out.println( "hello world");
         }
     }
-
-
-
-
 
     public static void main1(int sum) {
 
